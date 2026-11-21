@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![CI](https://github.com/neolaf2/neoskills/actions/workflows/ci.yml/badge.svg)](https://github.com/neolaf2/neoskills/actions/workflows/ci.yml)
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 **Homebrew-style skill manager for AI coding agents.**
 
 neoskills manages portable skill definitions across agent ecosystems (Claude Code, OpenCode, OpenClaw). Browse skills in one place, sync to GitHub, deploy selectively via symlinks, and discover relationships through a built-in ontology graph.
